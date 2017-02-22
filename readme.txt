@@ -1,3 +1,3 @@
-Lai Ka Wai, 20187775
+Ken Lai, 2016
 
-Please use Firefox to run the game.
+Please use Chrome to run the game.
